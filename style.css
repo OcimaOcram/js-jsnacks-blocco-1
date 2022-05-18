@@ -1,0 +1,12 @@
+#rosso{
+    color: red;
+}
+
+#verde{
+    color: green;
+}
+
+ul li{
+    list-style-type: none;
+    color: red;
+}
